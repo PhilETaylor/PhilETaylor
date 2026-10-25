@@ -16,33 +16,6 @@ AI is changing how code and systems are built and secured, and I work at the fro
 
 Away from code I fly my own aircraft, holding a Commercial Pilot Licence and a Qualified Flight Instructor certification, and take my own boat out with the MCA/RYA Advanced Powerboat certificate, commercially endorsed, among several other maritime certifications.
 
----
-
-🔧 **[fix.mysites.guru](https://fix.mysites.guru)** - Same Day Joomla/WordPress Site Fixes - Expert Fast Same Day Turnaround.
-
----
-
-#### Skills
-
-- PHP
-- SaaS Architecture
-- DevOps
-- Linux Server Management
-- Web Application Security
-- Incident Response and Intrusion Forensics
-- Personal Data Protection
-
-#### Just a few recent projects
-
-| Project | Description |
-|---------|-------------|
-| [mySites.guru](https://mysites.guru) | Manage All Your WordPress & Joomla Sites From One Dashboard |
-| [JoomlaHealthChecker.com](https://joomlahealthchecker.com) | Instant Health Report for Your Joomla Site |
-| [SearchMySites.com](https://searchmysites.com) | Best Search for Joomla - Finally. |
-| [myDomains.live](https://mydomains.live) | Replace Your Domain Management Spreadsheet |
-| [Today.je](https://today.je) | Today in Jersey, Channel Islands |
-| [EVChargers.je](https://evchargers.je) | Jersey, Channel Islands - Public EV Charger Statuses |
-
 #### Digital ID Keys & Fingerprints
 
 - SSH & Git signing ED25519 `SHA256:Vt++EmZzaZKA3RCT6JO/x0xjYtCaXutpQOlJf+4cMfI` ([download](https://www.phil-taylor.com/phil_e_taylor_public_key.pub))
@@ -53,5 +26,3 @@ Reporting a vulnerability? See [security.txt](https://www.phil-taylor.com/.well-
 #### Contact
 
 📫 phil@phil-taylor.com
-
-For Fractional CTO work, incident response, security or Data Protection, email me. All emails are answered the same day, or near-instant if I'm at my desk. I operate near #inboxzero and am always contactable in London/BST time zone.
